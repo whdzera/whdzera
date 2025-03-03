@@ -10,4 +10,3 @@ Location : Indonesia
 Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
 
 
-[https://whdzera.vercel.app/](https://whdzera.vercel.app/) => my place to learn magic :_)
