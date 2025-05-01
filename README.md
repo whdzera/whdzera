@@ -1,5 +1,6 @@
-#### hello :)
+<h2 align="left">Hi There 👋</h2>
 
+###
 
 <a href="https://github.com/rokhimin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokhimin&hide=css,html,scss,shell,dockerfile&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=2d3748&count_private=true" />
@@ -9,4 +10,30 @@ Location : Indonesia
 
 Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
 
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/whdzera" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://ko-fi.com/whdzera" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+</div>
+
+###
 
