@@ -9,16 +9,12 @@
 
 [![Profile Viewer](https://komarev.com/ghpvc/?username=whdzera&style=for-the-badge&color=red)]()
 
-Location : Indonesia
+#### Location : Indonesia
 
-Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
-
-
+#### Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,3 +33,4 @@ Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
 
 ###
 
+"Human behavior flows from three main sources: desire, emotion, and knowledge"
