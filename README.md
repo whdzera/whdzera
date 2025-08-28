@@ -3,11 +3,12 @@
 ###
 
 <a href="https://github.com/whdzera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdzera&hide=css,html,scss,shell,dockerfile&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=2d3748&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdzera&hide=css,html,scss,shell,dockerfile&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=00000000&count_private=true" />
 </a>
-<br>
 
-[![Profile Viewer](https://komarev.com/ghpvc/?username=whdzera&style=for-the-badge&color=red)]()
+###
+
+[![Profile Viewer](https://komarev.com/ghpvc/?username=whdzera&style=for-the-badge&color=grey&label=How+many+people+viewed+my+profile?)]()
 
 #### Location : Indonesia
 
