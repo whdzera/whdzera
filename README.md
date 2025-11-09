@@ -10,7 +10,7 @@
 
 [![Profile Viewer](https://komarev.com/ghpvc/?username=whdzera&style=for-the-badge&color=grey&label=How+many+people+viewed+my+profile?)]()
 
-#### Location : Indonesia
+#### Location : 7°14'57.01"S, 112°45'2.99"E
 
 #### Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
 
