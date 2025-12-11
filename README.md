@@ -3,7 +3,7 @@
 ###
 
 <a href="https://github.com/whdzera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdzera&hide=css,html,scss,shell,dockerfile&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=00000000&count_private=true" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whdzera&theme=transparent&exclude={exclude}" />
 </a>
 
 ###
