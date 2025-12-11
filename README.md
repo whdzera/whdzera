@@ -6,20 +6,20 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whdzera&theme=transparent&exclude={exclude}" />
 </a>
 
-###
-
-[![Profile Viewer](https://komarev.com/ghpvc/?username=whdzera&style=for-the-badge&color=grey&label=How+many+people+viewed+my+profile?)]()
-
-#### Location : 7°14'57.01"S, 112°45'2.99"E
-
-#### Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
 </div>
+
+###
+
+[![Profile Viewer](https://komarev.com/ghpvc/?username=whdzera&style=for-the-badge&color=grey&label=How+many+people+viewed+my+profile?)]()
+
+#### Location : [7°14'57.01"S, 112°45'2.99"E](https://latitude.to/map/id/indonesia/cities/surabaya)
+
+#### Timezone : [UTC+7](https://www.timeanddate.com/worldclock/timezone/utc-7)
 
 ###
 
